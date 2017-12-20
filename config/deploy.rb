@@ -1,5 +1,5 @@
 # config valid only for current version of Capistrano
-lock '~> 3.8.0'
+lock '~> 3.10.1'
 
 set :application, 'teddies_shop'
 # replace your repo_url and do not forget add machine id_rsa.pub to Settings->Deploy keys
